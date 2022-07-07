@@ -1,16 +1,32 @@
 # buildspace Solana GIF Portal Project
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+A gif Wall, that users can connect to and add their favorite Gifs using their Solana Web3 Wallet!
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+**Link to project:** Live-Link-Coming-Soon!
 
-### **What is the .vscode Folder?**
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+**No preview picture available yet, so heres a cute doggo!**
+![alt tag](http://placecorgi.com/1200/650)
 
+## How It's Made:
 
+**Tech used:** Javascript, React, Rust, Solana
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3) and link your Discord account so you can get access to helpful channels and your instructor!
+This application was built using the React Framework along with Rust and Solana
+
+## Optimizations
+
+TBD
+
+## Lessons Learned:
+
+TBD
+
+## Examples:
+
+Take a look at these couple examples that I have in my own portfolio:
+
+**theNunGram:** https://github.com/JustinVelazquez/theNunGram
+
+**LionHeart-Fitness:** https://github.com/JustinVelazquez/LionHeart-Fitness
+
+**The-Tech-Shop:** https://github.com/JustinVelazquez/The-Tech-Shopv2
